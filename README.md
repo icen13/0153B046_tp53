@@ -12,7 +12,7 @@
 
 Amino acids are linked together by peptide bonds to form a protein. Hydrogen bonds can form between amino acids with suitable polar groups, such as the backbone carbonyl oxygen (C=O) and amide hydrogen (N–H). These hydrogen bonds help stabilize the protein’s secondary structure, including alpha-helices and beta-sheets.
 
-![Protein structure](image/protein_structure.jpeg)
+![TP53 protein structure](image/TP53.PDB%20(1).png)
 
 ## 2. The Double-Track Highway of Life’s Blueprint
 
@@ -32,7 +32,7 @@ Nucleotides join together through phosphodiester bonds to form each DNA strand. 
 
 Arginine (Arg280) and guanine (G) interact through hydrogen bonds in the p53–DNA complex. This interaction helps TP53 recognize specific DNA sequences.
 
-![TP53–DNA complex](image/tp53_dna_complex.jpeg)
+![TP53-DNA complex](image/TP53.PDB-TP53_DNA.PDB.png)
 
 ## 4. Return to the Crime Scene
 
@@ -52,7 +52,7 @@ One example is the R273H mutation (arginine to histidine at position 273) in TP5
 
 ### a. ChimeraX Visualization
 
-![ChimeraX visualization](image/chimerax_visualization.jpeg)
+![TP53-DNA structure](image/TP53.PDB-TP53_DNA.PDB%20(1).png)
 
 ### b. ChimeraX Session File
 
